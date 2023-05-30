@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Picturest</string>
+    <string name="search_photo">Пошук фото</string>
+    <string name="input_name_for_image">Введіть назву для картинки</string>
+    <string name="name_cannot_be_empty">Назва не може бути пустою</string>
+    <string name="too_long_name">Назва занадто довга</string>
+    <string name="save">Зберегти картинку</string>
+    <string name="oops_image_was_not_found">Упс, картинку не було знайдено</string>
+    <string name="error_while_saving_image">Щось пішло не так у процесі збереження, спробуйте знову</string>
+    <string name="successfully_saved">Успішно збережено!</string>
+    <string name="error_unique_name">Помилка: ви уже маєте збережену картинку з такою назвою. Будь ласка, спробуйте іншу.</string>
+</resources>

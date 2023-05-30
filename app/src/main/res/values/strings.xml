@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Picturest</string>
+    <string name="search_photo">Search photo</string>
+    <string name="input_name_for_image">Input name for image</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+    <string name="too_long_name">Name is too long</string>
+    <string name="save">Save image</string>
+    <string name="oops_image_was_not_found">Oops, image was not found</string>
+    <string name="error_while_saving_image">Something went wrong during saving image, try again</string>
+    <string name="successfully_saved">Successfully saved!</string>
+    <string name="error_unique_name">Error: you have already created image with such a name. Please, try another one.</string>
+</resources>

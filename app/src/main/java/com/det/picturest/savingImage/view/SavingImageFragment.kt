@@ -1,5 +1,6 @@
 package com.det.picturest.savingImage.view
-
+Log.easdasdas
+Hello there it is A!
 import android.content.Context
 import android.content.ContextWrapper
 import android.database.SQLException
@@ -61,6 +62,7 @@ class SavingImageFragment : Fragment() {
         catch (exception: Exception) {
             showUriError()
         }
+
     }
 
     private fun setImage() {

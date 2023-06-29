@@ -1,7 +1,7 @@
 package com.det.picturest.savingImage.view
-Hello from B!
-ASFSAFasf
-ASFASF
+Hello from B
+Hello there it is A!
+  
 import android.content.Context
 import android.content.ContextWrapper
 import android.database.SQLException
@@ -63,6 +63,7 @@ SAFASFasf
         catch (exception: Exception) {
             showUriError()
         }
+
     }
 
     private fun setImage() {
